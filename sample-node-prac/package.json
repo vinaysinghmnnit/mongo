@@ -1,0 +1,17 @@
+{
+  "name": "sample-node-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "Antra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.10",
+    "nodemon": "^1.17.2"
+  }
+}
